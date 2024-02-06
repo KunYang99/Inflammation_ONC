@@ -2,7 +2,7 @@
 
 This is a data depository for the following publication:
 
-Kun Yang, Yuto Hasegawa, Janardhan P Bhattarai, Jun Hua, Milan Dower, Semra Etyemez, Neal Prasad, Lauren Duvall, Adrian Paez, Amy Smith, Yingqi Wang, Yun-Feng Zhang, Andrew P. Lane, Koko Ishizuka, Vidyulata Kamath, Minghong Ma, Atsushi Kamiya, and Akira Sawa. Inflammation-related pathology in the olfactory epithelium: its impact on the olfactory system in psychotic disorders. <b><i>Mol. Psychiatry</i></b>, 2024 (in press)
+Kun Yang, Yuto Hasegawa, Janardhan P Bhattarai, Jun Hua, Milan Dower, Semra Etyemez, Neal Prasad, Lauren Duvall, Adrian Paez, Amy Smith, Yingqi Wang, Yun-Feng Zhang, Andrew P. Lane, Koko Ishizuka, Vidyulata Kamath, Minghong Ma, Atsushi Kamiya, and Akira Sawa. Inflammation-related pathology in the olfactory epithelium: its impact on the olfactory system in psychotic disorders. <b><i>Mol. Psychiatry</i></b> (2024) https://www.nature.com/articles/s41380-024-02425-8
 
 ## Data
 The "data" folder contains bulk RNA-Seq data from olfactory neuronal cells of 59 healthy controls and 44 patients with first episode psychosis.
