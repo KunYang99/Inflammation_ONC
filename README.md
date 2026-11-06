@@ -1,4 +1,4 @@
-# Inflammation_ONC
+# Olfactory inflammation and psychosis
 
 This is a data depository for the following publication:
 
